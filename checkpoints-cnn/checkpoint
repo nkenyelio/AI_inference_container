@@ -1,0 +1,2 @@
+model_checkpoint_path: "mHealth.ckpt"
+all_model_checkpoint_paths: "mHealth.ckpt"
